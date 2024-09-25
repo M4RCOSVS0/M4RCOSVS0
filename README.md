@@ -21,20 +21,5 @@
 ![T-SQL](https://img.shields.io/badge/t--sql-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=D3D3D3&labelColor=0D1117)
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=D3D3D3&labelColor=0D1117)
 
-## Programs and Tools:
-![DataGrip](https://img.shields.io/badge/-DataGrip-0D1117?style=for-the-badge&logo=jetbrains&logoColor=D3D3D3&labelColor=0D1117)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=8758be&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=D3D3D3&labelColor=0D1117)
-
-
-
-
-
-## Systems:
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
 
 
