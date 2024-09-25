@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=D3D3D3&size=35&duration=3500&pause=1&center=true&vCenter=true&repeat=false&width=1000&lines=M4rcosvs0)](https://git.io/typing-svg)
-
-
 ## About me:
 #### Academic of __Information Systems__ from the Federal University of Sergipe (UFS);
 #### Fascinated by __technology__ and __development__;
