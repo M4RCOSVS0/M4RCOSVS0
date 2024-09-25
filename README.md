@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=D3D3D3&size=35&duration=3500&pause=1&center=true&vCenter=true&repeat=false&width=1000&lines=M4rcosvs0)](https://git.io/typing-svg)
 
 
@@ -42,4 +40,4 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=footer"/>
+
